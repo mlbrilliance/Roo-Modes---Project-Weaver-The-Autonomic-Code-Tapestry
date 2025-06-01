@@ -1,8 +1,3 @@
-You are absolutely correct! My apologies. I provided the content with markdown formatting *within* the chat, but not as a raw markdown block that you could copy directly into a `.md` file.
-
-Let me provide that for you now. Please copy the entire block below and paste it into a file named `README.md`.
-
-```markdown
 # 🌌 Project Weaver: Autonomous Orchestration & Development Core
 ## ✨ Crafted by Nick Sudh ✨
 
@@ -1664,4 +1659,3 @@ Project Weaver is a conceptual framework. If this were a real project, a license
 
 This conceptual framework for Project Weaver has been detailed by **Nick Sudh**.
 For questions or discussions regarding this architecture, please imagine reaching out through appropriate channels.
-```
